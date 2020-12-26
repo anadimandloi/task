@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.planet {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+.planet h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+
+button {
+  border: 0em;
+  background-color: #fff;
+  color: black;
+  border: none;
+}
+
+body {
+  background-color: black;
+}
+
